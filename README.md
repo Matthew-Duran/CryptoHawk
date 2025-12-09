@@ -83,6 +83,3 @@ node index.js
 
 [Portfolio](https://mduran-portfolio.netlify.app) • [GitHub](https://github.com/Matthew-Duran) • [LinkedIn](https://linkedin.com/in/matthew-q-duran)
 
-## 📄 License
-
-MIT License - feel free to use this project for learning or building your own crypto monitoring tools.
